@@ -1,0 +1,7 @@
+//  HISTORY file for bw_msposix library
+//  MS C++ compatible replacements for missing POSIX functions
+//  by Bill Weinman <http://bw.org/>
+//  Copyright (c) 2014 The BearHeart Group LLC
+//
+
+2014-05-12 BW - first public release with lynda.com Code Clinc series. 

@@ -1,0 +1,7 @@
+//  HISTORY file for BWLib
+//  C++ library classes for lynda.com Code Clinic series
+//  by Bill Weinman <http://bw.org/>
+//  Copyright (c) 2014 The BearHeart Group LLC
+//
+
+2014-05-12 BW - first public release with lynda.com Code Clinc series. 

@@ -1,0 +1,30 @@
+#############################################################################
+#############################################################################
+Notes for compiling and running a c++ program from terminal 
+#############################################################################
+Open editor of your choice and  write source code in file
+eg: nano filename.cpp
+
+Save as filename as .cpp file type
+
+#############################################################################
+compile by using command: g++"filename.cpp" 
+
+If any errors in source are present now is when they will appear.
+
+If no errors are present then an executable file will be created in current
+Working Directory (WD) as a.out
+
+#############################################################################
+#############################################################################
+How to name the executable something besides a.out
+#############################################################################
+Instead of running the command g++ filename.cpp
+
+use the command extension -o 
+
+eg: g++ filename.cpp -o filename.exe
+
+Now run the program in terminal by using command ./filename.exe
+
+#############################################################################

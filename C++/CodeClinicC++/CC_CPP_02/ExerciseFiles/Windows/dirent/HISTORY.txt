@@ -1,0 +1,1 @@
+NOTE: The dirent.c and dirent.h files are open-source libraries provided by a third party. 
